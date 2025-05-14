@@ -14,3 +14,4 @@ sudo chmod +x ~/.config/stryboh-login/main.py
 sudo systemctl enable stryboh_par.service
 ```
 
+![[Circuit-Diagram.jpg]]
